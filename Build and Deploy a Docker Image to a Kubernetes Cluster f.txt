@@ -1,6 +1,8 @@
+NEW VIDEO -- https://youtu.be/7jzZNVxI6nw
+
+
 gsutil cp gs://sureskills-ql/challenge-labs/ch04-kubernetes-app-deployment/echo-web.tar.gz .
-
-
+OR
 gsutil cp gs://$DEVSHELL_PROJECT_ID/echo-web.tar.gz .
 
 
